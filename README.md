@@ -7,11 +7,9 @@
 - 🌱 Currently learning **RESTful APIs** and improving backend skills  
 - 🔧 **Tech Stack:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
 
@@ -27,7 +25,3 @@
 
 #### ⚡ Fun Fact:
 I started with Mathematics but found my passion in **Software Development**! 🚀  
-
----
-
-Would you like me to add GitHub stats or an activity graph? 🚀
