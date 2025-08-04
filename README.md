@@ -12,7 +12,7 @@
 <p align="center">
 🎓 Computer Engineering Graduate (B.E) from Manav Engineering and Technology College, Akola <br>
 📊 Also holds a Bachelor's Degree in Mathematics (BSc) <br>
-💼 Currently working as a <b>Software Engineer at Workstates</b> <br>
+💼 Currently working as a <b>Software Engineer at Growstats Media PVT LTD</b> <br>
 💻 Passionate about Full-Stack Development and Backend Engineering <br>
 🌱 Currently learning RESTful APIs and deepening backend skills with Django & Node.js
 </p>
